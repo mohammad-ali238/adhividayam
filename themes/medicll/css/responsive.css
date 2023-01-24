@@ -1,0 +1,901 @@
+@media (max-width:1680px){
+	.medicll-slidercontent {
+		width: 833px;
+		padding: 213px 140px 213px 0;
+	}
+	.medicll-homeslider .owl-buttons {padding: 0 0 0 186px;}
+	.medicll-homeslidertwo .medicll-slidercontent {padding: 213px 15px 212px 135px;}
+	.medicll-homesliderthree .medicll-slidercontent {padding: 343px 0 242px;}
+	.medicll-servingdepartment{padding: 142px 150px 142px 60px;}
+}
+@media (max-width:1600px){
+	.medicll-slidercontent {
+		width: 837px;
+		padding: 196px 140px 196px 0;
+	}
+	.medicll-homeslider .owl-buttons {padding: 0 0 0 203px;}
+	.medicll-homeslidertwo .medicll-slidercontent {padding: 196px 15px 196px 135px;}
+	.medicll-homesliderthree .medicll-slidercontent {padding: 325px 0 220px;}
+	.medicll-servingdepartment{padding: 118px 150px 118px 60px;}
+	.medicll-aimcol {
+		padding: 70px 70px;
+		min-height: 502px;
+	}
+}
+@media (max-width:1440px){
+	.medicll-slidercontent {
+		width: 846px;
+		padding: 163px 140px 162px 0;
+	}
+	.medicll-homeslider .owl-buttons {padding: 0 0 0 240px;}
+	.medicll-project figure figcaption {padding: 30px 25px;}
+	.medicll-homeslidertwo .medicll-slidercontent {padding: 163px 15px 163px 135px;}
+	.medicll-homesliderthree .medicll-slidercontent {padding: 282px 0 180px;}
+	.medicll-servicetitle h3{font-size: 19px;}
+}
+@media (max-width:1366px){
+	.medicll-slidercontent {
+		width: 850px;
+		padding: 147px 140px 147px 0;
+	}
+	.medicll-homeslider .owl-buttons {padding: 0 0 0 254px;}
+	.medicll-homeslidertwo .medicll-slidercontent {padding: 147px 15px 147px 135px;}
+	.medicll-homesliderthree .medicll-slidercontent {padding: 264px 0 160px;}
+	.medicll-servingdepartment{padding: 129px 150px 129px 60px;}
+	.medicll-aimcol {padding: 70px 30px;}
+@media (max-width:1280px){
+	.medicll-homesliderthree .medicll-slidercontent {padding: 240px 0 140px;}
+	.medicll-servingdepartment{padding: 105px 150px 105px 60px;}
+	.medicll-servicesthree .medicll-services{margin: 0 0 0 -75px}
+}
+@media (max-width:1200px){
+	.medicll-slidercontent {
+		padding: 113px 140px 112px 0;
+		width: 860px;
+	}
+	.medicll-homeslider .owl-buttons {padding: 0 0 0 292px;}
+	.medicll-homeslidertwo .medicll-slidercontent {padding: 113px 15px 113px 135px;}
+	.medicll-homesliderthree .medicll-slidercontent {padding: 200px 0 140px;}
+	.medicll-detailpage figure img{
+		width: auto;
+		max-width :auto;
+		height: 320px;
+		max-width: none;
+	}
+	.medicll-404tital h2{font-size: 310px;}
+	.medicll-servingdepartment{padding: 115px 150px 115px 60px;}
+}
+@media (max-width:1199px){
+	.medicll-addressbox li:nmedicll-child(1),
+	.medicll-addressbox li:nmedicll-child(2) {width: 253px;}
+	.medicll-logo {width: 180px;}
+	.medicll-headerthree .medicll-logo {
+		width: auto;
+		float: left;
+	}
+	.medicll-addressbox {padding: 19px 0;}
+	.medicll-headertwo .medicll-addressbox {padding: 25px 0;}
+	.medicll-nav {width: 700px;}
+	.medicll-navigation > ul > li {padding: 13px 15px;}
+	
+	.medicll-slidercontent {
+		padding: 116px 110px 117px 0;
+		width: 705px;
+	}
+	.medicll-slidercontent h1 {
+		font-size: 42px;
+		line-height: 34px;
+	}
+	.medicll-slidercontent h1 span {
+		font-size: 60px;
+		line-height: 50px;
+	}
+	.medicll-homeslider .owl-buttons {padding: 0 0 0 185px;}
+	.medicll-workingtime {padding: 20px;}
+	.medicll-openingtime h3 {padding: 0 30px;}
+	.medicll-counterbox {padding: 15px 30px 15px 15px;}
+	.medicll-service {padding: 40px 15px;}
+	.medicll-servicetitle h3{font-size: 17px;}
+	.medicll-newsletterbox {padding: 45px 0;}
+	.medicll-newsletterbox h2 {padding: 0 0 15px;}
+	.medicll-newsletterbox .medicll-description p {margin: 0 0 15px;}
+	.medicll-newsletter:before {
+		left: -100px;
+		height: 470px;
+	}
+	.medicll-sectiontitle h2{font-size: 28px;}
+	.medicll-project {width: 25%;}
+	.medicll-postmate li {padding: 0 6px;}
+	.medicll-fservices li .medicll-contentbox strong {
+		font-size: 21px;
+		line-height: 31px;
+	}
+	.medicll-fservices li .medicll-contentbox {padding: 31px 0 31px 20px;}
+	.medicll-testimonial blockquote::before {top: -6px;}
+	.medicll-imgbox img {top: 28px;}
+	.medicll-counterstwo .medicll-counterbox {padding: 20px 12px;}
+	.medicll-quickcontactinfo{padding: 0;}
+	.medicll-quickcontactinfo h3 {font-size: 26px;}
+	.medicll-quickcontact {
+		background-position: -230% 0;
+		background-size: 84% 100%;
+	}
+	.medicll-docmemberstwo .medicll-docmember:before {
+		border-bottom: 58px solid transparent;
+		border-left: 108px solid #fff;
+		border-right: 108px solid #fff;
+	}
+	.medicll-docmemberstwo .medicll-docmember::after {
+		border-left: 108px solid #fff;
+		border-right: 108px solid #fff;
+		border-top: 58px solid transparent;
+	}
+	.medicll-docmember .medicll-socialicons {padding: 8px 0;}
+	.medicll-testimonialstwo .medicll-testimonialslider .item {margin: 20px 120px 30px 0;}
+	.medicll-testimonialstwo .medicll-testimonial blockquote::before {top: -56px;}
+	.medicll-testimonialstwo .medicll-clientinfo{
+		bottom: -32px;
+		background-color: #2d3e50;
+		padding: 10px 10px 10px 90px;
+		background-position: 10px 10px;
+	}
+	.medicll-poststwo .medicll-posttitel {padding: 15px 0;}
+	.medicll-nav{padding: 0 15px 0 0;}
+	.medicll-headerthree .medicll-navigation > ul > li > a {padding: 0 15px 39px;}
+	.medicll-features {margin: -20px 0 60px;}
+	.medicll-featuresicons{
+		max-width: 440px;
+		width: 100%;
+		float: none;
+		margin: 0 auto;
+	}
+	.medicll-aimcol {
+		min-height: 410px;
+		padding: 50px 30px;
+		width: 50%;
+	}
+	.medicll-formhead {padding: 15px;}
+	.medicll-formhead i {margin: 0 10px 0 0;}
+	.medicll-countersthree .medicll-counter {padding: 20px;}
+	.medicll-servingdepartment {padding: 130px 80px 130px 30px;}
+	.medicll-servicesthree .medicll-services {margin: 0 0 0 -50px;}
+	.medicll-homesliderthree .medicll-slidercontent {padding: 205px 0 143px;}
+	.medicll-featuresarea{padding: 0;}
+	.medicll-widgetcontcatus figure figcaption{padding: 40px 0;}
+	.medicll-detailpage figure img{height: 319px;}
+	.medicll-servicestwo .medicll-servicetitle h3{font-size: 18px;}
+	.medicll-docterdetail ul li:first-child{padding-left: 15px;}
+	.medicll-contactinfo li{width: 43%}
+	.medicll-infobox:first-child{margin: 0 0 30px;}
+	.medicll-projectstwo.medicll-projects{min-height: 880px;}
+	.medicll-content .medicll-filter-masonry.medicll-projectstwo.medicll-projects{min-height: 1250px;}
+	.medicll-postimg{overflow: hidden;}
+	.medicll-postimg a img{
+		width: auto;
+		height: 300px;
+		max-width: none;
+		margin: 0 0 0 -106px;
+	}
+	.medicll-poststwo .medicll-postimg a img{
+		width: 100%;
+		height: auto;
+		max-width: 100%;
+		margin: 0;
+	}
+}
+@media (max-width:1080px){
+	.medicll-slidercontent {
+		padding: 92px 110px 92px 0;
+		width: 711px;
+	}
+	.medicll-homeslider .owl-buttons {padding: 0 0 0 208px;}
+	.medicll-homeslidertwo .medicll-slidercontent {padding: 92px 15px 92px 100px;}
+	.medicll-homesliderthree .medicll-slidercontent {padding: 177px 0 110px;}
+	.medicll-servicesthree {padding: 132px 0;}
+	.medicll-servingdepartment {padding: 103px 80px 100px 30px;}
+}
+@media (max-width:1050px){
+	.medicll-slidercontent {
+		padding: 92px 110px 92px 0;
+		width: 711px;
+	}
+	.medicll-homeslider .owl-buttons {padding: 0 0 0 208px;}
+	.medicll-homeslidertwo .medicll-slidercontent {padding: 86px 15px 86px 100px;}
+	.medicll-homesliderthree .medicll-slidercontent {padding: 160px 0 111px;}
+	.medicll-servicesthree {padding: 121px 0;}
+}
+@media (max-width:1024px){
+	.medicll-slidercontent {
+		padding: 92px 110px 92px 0;
+		width: 711px;
+	}
+	.medicll-homeslider .owl-buttons {padding: 0 0 0 208px;}
+	.medicll-homeslidertwo .medicll-slidercontent {padding: 80px 15px 80px 100px;}
+	.medicll-homesliderthree .medicll-slidercontent {padding: 150px 0 110px;}
+}
+@media (max-width:992px){
+	.medicll-slidercontent {
+		padding: 74px 110px 73px 0;
+		width: 716px;
+	}
+	.medicll-homeslidertwo .medicll-slidercontent {padding: 74px 15px 74px 100px;}
+	.medicll-homesliderthree .medicll-slidercontent {padding: 145px 0 97px;}
+	.medicll-servingdepartment {padding: 77px 80px 78px 30px;}
+}
+@media (max-width:991px){
+	.medicll-logo {
+		width: 250px;
+		float: none;
+		display: block;
+		margin: 25px auto;
+	}
+	.medicll-addressbox li + li {padding: 0 0 0 8px;}
+	.medicll-navigationarea{background: #2d3e50;}
+	.medicll-nav {
+		width: 100%;
+		padding: 0;
+	}
+	.medicll-nav:before{display: none;}
+	.medicll-navigation > ul > li{
+		float: none;
+		display: inline-block;
+		vertical-align: top;
+		padding: 13px 15px;
+	}
+	.medicll-navigation > ul > li:first-child{padding: 13px 15px;}
+	.medicll-navigation > ul > li:first-child > a{padding: 10px;}
+	.medicll-widgetsearch{width: 100%;}
+	.medicll-homeslider figure img {
+		width: auto;
+		height: 413px;
+	}
+	.medicll-slidercontent {
+		padding: 87px 110px 87px 0;
+		width: 600px;
+	}
+	.medicll-slidercontent h1 {
+		font-size: 32px;
+		line-height: 30px;
+		margin: 0 0 15px;
+	}
+	.medicll-slidercontent h1 span {
+		font-size: 40px;
+		line-height: 33px;
+		padding: 15px 0 0;
+	}
+	.medicll-pattrenone{background-repeat: repeat-y;}
+	.medicll-counter{width: 50%;}
+	.medicll-counter:nmedicll-child(1),
+	.medicll-counter:nmedicll-child(2){margin: 0 0 60px;}
+	.medicll-newsletter:before{display: none;}
+	.medicll-videobox{margin: 60px 0 0;}
+	.medicll-newsletterbox{padding: 60px 0;}
+	.medicll-navfilterbale{text-align: center;}
+	.medicll-navfilterbale li{
+		display: inline-block;
+		vertical-align: top;
+	}
+	.medicll-navfilterbale li a{padding: 0 8px;}
+	.medicll-project {width: 33.33%;}
+	.medicll-departments{margin: 25px 0 -15px;}
+	.medicll-post{margin: 15px 0;}
+	.medicll-fservices li .medicll-contentbox {padding: 31px 0 31px 15px;}
+	.medicll-fservices li .medicll-contentbox strong {
+		font-size: 16px;
+		line-height: 20px;
+	}
+	.medicll-fservices li .medicll-contentbox strong span {
+		font-size: 15px;
+		line-height: 18px;
+	}
+	.medicll-fserviceicon {
+		width: 69px;
+		height: 108px;
+		line-height: 106px;
+	}
+	.medicll-fcols, .medicll-fcol {
+		margin: 15px 0;
+		min-height: 278px;
+	}
+	.medicll-copyright{
+		display: block;
+		width: 100%;
+		text-align: center;
+		padding: 0 0 15px;
+	}
+	.medicll-footernav{width: 100%;}
+	.medicll-footernav ul {text-align: center;}
+	.medicll-footernav ul li{
+		float: none;
+		padding: 0 20px;
+		display: inline-block;
+		vertical-align: middle;
+	}
+	.medicll-testimonial blockquote::before {top: 7px;}
+	.medicll-headertwo .medicll-logo {margin: 30px auto 0;}
+	.medicll-headertwo .medicll-addressbox {padding: 30px 0;}
+	.medicll-homeslidertwo .medicll-slidercontent {padding: 87px 15px 87px 135px;}
+	.medicll-featuresnav {width: 100%;}
+	.medicll-featurestabcontent{
+		width: 100%;
+		float: left;
+		margin: 60px 0 0;
+	}
+	.medicll-appintmentarea .medicll-select{margin: 0 0 30px;}
+	.medicll-servicestwo .medicll-service {padding: 0 25px 25px;}
+	.medicll-counterstwo .medicll-counterbox::after {height: 50%;}
+	.medicll-counterstwo .medicll-count span {font-size: 20px;}
+	.medicll-count h3::before {
+		top: -2px;
+		font-size: 36px;
+	}
+	.medicll-counterstwo .medicll-count h3 {
+		font-size: 24px;
+		margin: -9px 5px 0 0;
+	}
+	.medicll-projectstwo .medicll-project.medicll-itemwidthone {width: 50%;}
+	.medicll-projectstwo .medicll-project.medicll-itemwidthtwo {width: 100%;}
+	.medicll-projectstwo.medicll-projects {
+		height: 3080px;
+		min-height: 3080px;
+	}
+	.medicll-quickcontact{background-image: none;}
+	.medicll-docmembers.medicll-docmemberstwo{margin: -15px 0;}
+	.medicll-docmemberstwo .medicll-docmember{margin: 15px 0;}
+	.medicll-docmemberstwo .medicll-docmember::before {
+		border-bottom: 90px solid transparent;
+		border-left: 175px solid #fff;
+		border-right: 175px solid #fff;
+	}
+	.medicll-docmemberstwo .medicll-docmember::after {
+		border-left: 175px solid #fff;
+		border-right: 175px solid #fff;
+		border-top: 90px solid transparent;
+	}
+	.medicll-testimonialstwo .medicll-testimonial {padding: 30px 70px 50px 30px;}
+	.medicll-testimonialstwo .medicll-testimonial blockquote:before {top: -33px;}
+	.medicll-packageplans{margin: -15px 0;}
+	.medicll-packageplan{margin: 15px 0;}
+	.medicll-poststwo .medicll-postimg {
+		float: left;
+		width: 100%;
+	}
+	.medicll-poststwo .medicll-postcontent {
+		width: 100%;
+		padding: 0;
+	}
+	.medicll-formappointment{margin: 0 0 60px;}
+	.medicll-servicesthree {
+		width: 100%;
+		padding: 100px 30px;
+	}
+	.medicll-servicesthree .medicll-services {margin: 0;}
+	.medicll-servingdepartment{ width: 100%;}
+	.medicll-projectsthree .medicll-project{width: 50%;}
+	.medicll-docmembers.medicll-docmembersthree{margin: -15px 0;}
+	.medicll-docmembers.medicll-docmembersthree .medicll-docmember{margin: 15px 0;}
+	.medicll-homesliderthree .medicll-slidercontent{padding: 125px 0 49px;}
+	.medicll-header.medicll-headerthree{overflow: visible;}
+	.medicll-headerthree .medicll-logo {margin: 15px 0;}
+	.medicll-headerthree .medicll-navigationarea{background: transparent;}
+	.medicll-headerthree .navbar-toggle {
+		margin: 0;
+		display: block;
+	}
+	.medicll-headerthree .medicll-navigationarea{
+		float: right;
+		padding: 22px 0 0;
+	}
+	.medicll-headerthree .medicll-nav{position: static;}
+	.medicll-headerthree .collapse {display: none !important;}
+	.medicll-headerthree .collapse.in {display: block !important;}
+	.medicll-headerthree .medicll-navigation{
+		top: 100%;
+		left: auto;
+		right: 0;
+		width: 100%;
+		float: none;
+		z-index: 100;
+		background: #fff;
+		position: absolute;
+	}
+	.medicll-headerthree .medicll-menudropdown{
+		opacity: 1;
+		width: 100%;
+		float: left;
+		display: none;
+		position: static;
+		box-shadow: none;
+		visibility: visible;
+		padding: 0 0 0 20px;
+		border-top: 1px solid #ddd;
+	}
+	.medicll-headerthree .medicll-navigation > ul > li > a{
+		color: #373542;
+		padding: 10px;
+	}
+	.medicll-headerthree .medicll-navigation > ul > li{
+		width: 100%;
+		padding: 0 !important;
+	}
+	.medicll-headerthree .medicll-navigation > ul > li + li{border-top: 1px solid #ddd;}
+	.medicll-headerthree .medicll-dropdowarrow{display: block;}
+	.medicll-homesliderthree.medicll-homeslider figure img {
+		width: auto;
+		height: 510px;
+	}
+	.medicll-widgetcontcatus figure figcaption{padding: 44px 0;}
+	.medicll-widget + .medicll-widget{margin:50px 0;}
+	.medicll-detailpage figure img{height: 318px;}
+	.medicll-404tital h2{font-size: 220px;}
+	.medicll-backhome a{float: none;}
+	.medicll-backhome span{
+		width: 10%;
+		display: block;
+		margin: 20px auto 15px;
+	}
+	.medicll-formsearch{
+		float: none;
+		margin: 0 auto;
+	}
+	.medicll-formservicessearch{padding:0 0 40px;}
+	.medicll-commingsoon h1 span{
+		font-size: 65px;
+		line-height: 65px;
+	}
+	.medicll-commingsoon .medicll-formsearch{width: 80%;}
+	.medicll-postslist.medicll-poststwo .medicll-postcontent{padding: 0;}
+	.medicll-postslist.medicll-poststwo .medicll-postmate{right: 26%;}
+	.medicll-postdetail .medicll-videobox {margin: 60px 0 25px;}
+	.medicll-docterdetail .medicll-info li{width: 100%;}
+	.medicll-docterdetail .medicll-info li+li {border-left: 0;}
+	.medicll-docterdetail .medicll-info li+li {border-top: 1px solid #556677;}
+	.medicll-contactinfo li{width: 50%}
+	.medicll-homesliderthree .medicll-btncurvenext,
+	.medicll-homesliderthree .medicll-btncurveprev{top: 55%;}
+	.medicll-infobox{padding: 20px 72px;}
+	.medicll-aimcol{padding: 48px 30px;}
+}
+@media (max-width:767px){
+	.medicll-topinfo{
+		padding-top: 0;
+		text-align: center;
+	}
+	.medicll-emails{
+		width: 100%;
+		float: left;
+		text-align: center;
+		padding: 0 0 15px;
+	}
+	.medicll-emails li{
+		float: none;
+		display: inline-block;
+		vertical-align: top;
+	}
+	.medicll-emails li:last-child{border: 0;}
+	.medicll-addressbox li + li{padding: 0;}
+	.medicll-addressbox li{
+		width: 100%;
+		padding: 0;
+		text-align: center;
+	}
+	.medicll-addressbox li:nmedicll-child(1),
+	.medicll-addressbox li:nmedicll-child(2){
+		width: 50%;
+		float: left;
+		margin: 0 0 20px;
+		text-align: left;
+	}
+	.medicll-navigationarea{position: relative;}
+	.medicll-headerthree .medicll-navigationarea{position: static;}
+	.medicll-nav {
+		width: 25%;
+		float: left;
+		font-size: 14px;
+		position: static;
+	}
+	.medicll-widgetsearch{
+		width: 70%;
+		float: right;
+	}
+	.medicll-nav .navbar-toggle{
+		float: left;
+		margin: 14px 0;
+	}
+	.medicll-headerthree .navbar-toggle{margin: 0;}
+	.medicll-navigation{
+		top: 100%;
+		left: 0;
+		width: 100%;
+		float: none;
+		z-index: 100;
+		background: #fff;
+		position: absolute;
+	}
+	.medicll-menudropdown{
+		opacity: 1;
+		width: 100%;
+		float: left;
+		display: none;
+		position: static;
+		box-shadow: none;
+		visibility: visible;
+		padding: 0 0 0 20px;
+		border-top: 1px solid #ddd;
+	}
+	.medicll-navigation > ul > li > a{
+		color: #373542;
+		padding-left: 
+	}
+	.medicll-navigation > ul > li{
+		width: 100%;
+		float: left;
+		padding: 0 !important;
+	}
+	.medicll-navigation > ul > li + li{border-top: 1px solid #ddd;}
+	.medicll-dropdowarrow{display: block;}
+	.medicll-slidercontent {
+		padding: 103px 100px 103px 15px;
+		max-width: 546px;
+		width: 100%;
+	}
+	.medicll-slidercontent h1 {
+		font-size: 20px;
+		line-height: 15px;
+		margin: 0 0 10px;
+	}
+	.medicll-slidercontent h1 span {
+		font-size: 30px;
+		line-height: 26px;
+		padding: 10px 0 0;
+	}
+	.medicll-homeslider figure{height: 413px;}
+	.medicll-homeslider figure img {
+		top: 0;
+		right: -120px;
+		width: auto;
+		height: 413px;
+		max-width: none;
+		position: absolute;
+	}
+	.medicll-service{width: 50%;}
+	.medicll-service,
+	.medicll-service:nmedicll-child(1),
+	.medicll-service:nmedicll-child(2),
+	.medicll-service:nmedicll-child(3){border: 0 !important;}
+	.medicll-service:nmedicll-child(3),
+	.medicll-service:nmedicll-child(4){
+		border-top: 1px solid #c2c7cd !important;
+		border-bottom: 1px solid #c2c7cd !important;
+	}
+	.medicll-service:nmedicll-child(2),
+	.medicll-service:nmedicll-child(4),
+	.medicll-service:nmedicll-child(6){border-left: 1px solid #c2c7cd !important;}
+	.medicll-project {width: 50%;}
+	.medicll-testimonial{height: auto;}
+	.medicll-fservices li .medicll-contentbox {padding: 17px 0 17px 15px;}
+	.medicll-headertwo .medicll-addressbox {width: 100%;}
+	.medicll-homeslidertwo .medicll-slidercontent {padding: 103px 15px 103px 0;}
+	.medicll-appintmentarea form{padding: 0 15px;}
+	.medicll-appintmentarea .medicll-btnform{margin: 30px 0 0;}
+	.medicll-servicestwo .medicll-service {border: 1px solid  #00adef !important;}
+	.medicll-docmemberstwo .medicll-docmember:before,
+	.medicll-docmemberstwo .medicll-docmember:after{display: none;}
+	.medicll-countersthree .medicll-counter{ margin: 0 !important;}
+	.medicll-aimcol {
+		min-height: none;
+		padding: 50px 30px;
+		width: 100%;
+	}
+	.medicll-homesliderthree .medicll-slidercontent {
+		padding: 130px 100px 52px;
+		max-width: 100%;
+	}
+	.medicll-featurestabcontent{padding:0 15px;}
+	.medicll-threecolum.medicll-projectsthree .medicll-project{width: 50%;}
+	.medicll-detailpage .medicll-doctor{
+		width: 50%;
+		margin: 0 auto 40px;
+	}
+	.medicll-404tital h2{
+		font-size:200px;
+		line-height: 200px;
+	}
+	.medicll-commingsoon h1 span{
+		font-size: 55px;
+		line-height: 55px;
+	}
+	.medicll-content .medicll-counter:nmedicll-child(1),.medicll-content .medicll-counter:nmedicll-child(2){margin: 0;}
+	.medicll-commingsoon .medicll-counter .medicll-timerbox:nmedicll-child(1), .medicll-commingsoon .medicll-timerbox:nmedicll-child(2){margin:0 0 60px;}
+	.medicll-commingsoon .medicll-counter .medicll-timerbox{width: 50%;}
+	.medicll-commingsoon .medicll-counter .medicll-timerbox h2{
+		font-size: 38px;
+		line-height: 47px;
+	}
+	.medicll-commingsoon .medicll-counter .medicll-timerbox h3{
+		font-size: 26;
+		line-height: 20px;
+	}
+	.medicll-mapandworkhours .medicll-aimcol.medicll-workinghours{width: 55%;}
+	.medicll-widgetcontcatus figure figcaption {padding: 253px 0;}
+	.medicll-sidebar{margin: 50px 0 0;}
+	.medicll-widgetinstagram ul li{width: 20%;}
+	.medicll-postslist.medicll-poststwo .medicll-postmate{right: 43.2%;}
+	.medicll-docterdetail figure{margin: 0 0 40px;}
+	.medicll-contactinfo li{width: 100%}
+	.medicll-projectstwo.medicll-projects{min-height: 1965px;}
+	.medicll-404tital h2{letter-spacing: 0;}
+	.medicll-404tital h2 i{padding: 0 10px;}
+}
+@media (max-width:639px){
+	.medicll-footertopbar{display: none;}
+	.medicll-homesliderthree .medicll-slidercontent {padding: 90px 100px 20px;}
+	.medicll-featurestabcontent h2{font-size: 30px;}
+	.medicll-404tital h2{
+		font-size: 180px;
+		line-height: 180px;
+	}
+	.medicll-commingsoon h1{
+		font-size: 35px;
+		line-height: 35px;
+	}
+	.medicll-commingsoon h1 span{
+		font-size: 45px;
+		line-height: 45px;
+	}
+	.medicll-postmate li{padding: 0px 2px;}
+	.medicll-widgetcontcatus figure figcaption {padding: 215px 0;}
+	.medicll-postslist.medicll-poststwo .medicll-postmate{right: 40%;}
+	.medicll-homesliderthree .medicll-btns .medicll-btn{margin: 0 15px 10px 0;}
+	.medicll-docteamslider .owl-controls .owl-buttons{top: -70px;}
+	.medicll-testimonialstwo .medicll-testimonialslider .owl-controls .owl-buttons{right: 140px;}
+}
+@media (max-width:567px){
+	.medicll-addresscontent strong {font-size: 15px;}
+	.medicll-fcols > div{width: 100%;}
+	.medicll-fcols .medicll-fcol{
+		min-height: auto;
+		margin: 0;
+	}
+	.medicll-fcols > div + div .medicll-fcol{margin: 60px 0 0;}
+	.medicll-btn {padding: 0 40px; }
+	.medicll-btns .medicll-btn {margin: 0 15px 10px 0;}
+	.medicll-halfhaxegon {
+		height: 160px;
+		width: 45px;
+	}
+	.medicll-slidercontent {padding: 66px 100px 53px 15px;}
+	.medicll-imghaxegon,
+	.medicll-haxegon {
+		width: 90px;
+		height: 80px;
+	}
+	.medicll-halfhaxegon,
+	.medicll-haxegon{height: 50px;}
+	.medicll-imghaxegon{
+		width: 88px;
+		height: 104px;
+		margin: 5px 2px;
+	}
+	.medicll-texthaxegon h3 {
+		font-size: 13px;
+		line-height: 16px;
+	}
+	.medicll-iconhaxegon i {
+		font-size: 21px;
+		line-height: 19px;
+	}
+	.medicll-haxegon:before,
+	.medicll-haxegon:after,
+	.medicll-imghaxegon:before,
+	.medicll-imghaxegon:after{
+		border-left-width: 45px !important;
+		border-right-width: 45px !important;
+	}
+	.medicll-haxegon:before,
+	.medicll-iconhaxegon:before{top: -25px;}
+	.medicll-haxegon:after,
+	.medicll-iconhaxegon:after{bottom: -25px;}
+	.medicll-imghaxegon:before{ top: 0;}
+	.medicll-imghaxegon:after{ bottom: 0;}
+
+
+	.medicll-haxegon:before {border-bottom-width: 25px;}
+	.medicll-haxegon:after {border-top-width: 25px;}
+	.medicll-imghaxegon:before{border-bottom-width: 35px;}
+	.medicll-imghaxegon:after{border-top-width: 35px;}
+	.medicll-iconhaxegon i{padding:15px 34px;}
+	.medicll-texthaxegon h3{padding: 9px;}
+	.medicll-homesliderthree .medicll-slidercontent .medicll-description{ display: none;}
+	.medicll-featuresicons {max-width: 290px;}
+	.medicll-404tital h2{
+		font-size: 145px;
+		line-height: 145px;
+	}
+	.medicll-404content h3{font-size: 30px;}
+	.medicll-formsearch{width: 100%;}
+	.medicll-404tital{margin: 0 0 75px;}
+	.medicll-commingsoon h1 span{
+		font-size: 40px;
+		line-height: 40px;
+	}
+	.medicll-commingsoon .medicll-content h3{
+		font-size: 26px;
+		line-height: 22px;
+	}
+	.medicll-commingsoon .medicll-formsearch{width: 100%;}
+	.medicll-mapandworkhours .medicll-aimcol.medicll-workinghours{width: 65%;}
+	.medicll-widgetcontcatus figure figcaption {padding: 167px 0;}
+	.medicll-postslist.medicll-poststwo .medicll-postmate{right: 28.2%;}
+	.medicll-homesliderthree .medicll-slidercontent {padding: 150px 100px 60px;}
+	.medicll-homesliderthree .medicll-slidercontent h1{
+		font-size: 16px;
+		margin: 0 0 40px;
+	}
+	.medicll-testimonialstwo .medicll-testimonialslider .owl-controls .owl-buttons{
+		right: 50%;
+		bottom: -48px;
+	}
+	.medicll-homeslidertwo .medicll-slidercontent {padding: 98px 10px 98px 15px;}
+	.medicll-relatedproject > div + div{width: 100%;}
+}
+@media (max-width:479px){
+	.medicll-slidercontent .medicll-btns .medicll-btn{
+		font-size: 12px;
+		line-height: 35px;
+		padding: 0 30px;
+	}
+	.medicll-sectiontitle h2 {font-size: 24px;}
+	.medicll-newsletterbox h2 {font-size: 26px;}
+	.medicll-addressbox li:nmedicll-child(1),
+	.medicll-addressbox li:nmedicll-child(2){width: 100%;}
+	.medicll-counter {width: 100%;}
+	.medicll-counter:nmedicll-child(1),
+	.medicll-counter:nmedicll-child(2),
+	.medicll-counter:nmedicll-child(3){ margin: 0 0 60px;}
+	.medicll-project {width: 100%;}
+	.medicll-projectstwo .medicll-project.medicll-itemwidthone{width: 100%;}
+	.medicll-projectstwo.medicll-projects {
+		height: auto;
+		min-height: none;
+	}
+	.medicll-testimonialstwo .medicll-testimonialslider .item {margin: 100px 0 30px;}
+	.medicll-quickcontactinfo ul li + li {border-top: 1px solid #52697c;}
+	.medicll-quickcontactinfo ul li{
+		text-align: center;
+		width: 100%;
+	}
+	.medicll-testimonialstwo .medicll-testimonial {padding: 110px 30px 60px;}
+	.medicll-testimonialstwo .medicll-testimonial blockquote{text-align: center;}
+	.medicll-testimonialstwo .medicll-testimonial blockquote:before{
+		left: 50%;
+		top: -210px;
+		margin: 0 0 0 -90px;
+	}
+	.medicll-testimonialstwo .medicll-clientinfo{
+		left: 50%;
+		margin: 0 0 0 -130px;
+	}
+	.medicll-imgsbox figure,
+	.medicll-imgsbox figure img{width: 100%;}
+	.medicll-list li{width: 100%;}
+	.medicll-countersthree .medicll-counter,
+	.medicll-docmembers.medicll-docmembersthree > div{width: 100%;}
+	.medicll-counters.medicll-countersthree{border: 0;}
+	.medicll-countersthree .medicll-counter{border: 1px solid #d0d0d0; }
+	.medicll-countersthree .medicll-counter:nmedicll-child(2){
+		border-top: 0;
+		border-bottom: 0;
+	}
+	.medicll-slidercontent h1 {font-size: 16px;}
+	.medicll-slidercontent h1 span{font-size: 23px;}
+	.medicll-slidercontent {padding: 78px 80px 78px 15px;}
+	.medicll-slidercontent .medicll-btns .medicll-btn {margin: 0 8px 8px 0;}
+	.medicll-featurestabcontent h2{font-size:28px}
+	.medicll-quickcontactinfo h3{font-size: 22px;}
+	.medicll-homesliderthree .medicll-slidercontent {padding: 175px 0 95px;}
+	.medicll-projectsthree .medicll-project{width: 100%;}
+		.medicll-emails li{
+		border:0; 
+		width: 100%;
+		padding:0 0 10px 0;
+	}
+	.medicll-threecolum.medicll-projectsthree .medicll-project{width: 100%;}
+	.medicll-pagetitle h1{font-size: 25px;}
+	.medicll-detailpage .medicll-passionnant{padding: 37px 0 37px 70px;}
+	.medicll-detailpage .medicll-doctor{width: 100%;}
+	.medicll-detailpage .tab-pane h2 span{font-size:22px;}
+	.medicll-404tital h2 {
+		font-size: 85px;
+		line-height: 85px;
+	}
+	.medicll-404content h3 {font-size: 21px;}
+	.medicll-sectiontitle h2{font-size: 20px;}
+	.medicll-commingsoon h1{
+		font-size: 25px;
+		line-height: 25px;
+	}
+	.medicll-commingsoon h1 span{
+		font-size: 27px;
+		line-height: 27px;
+	}
+	.medicll-commingsoon .medicll-logo{
+		width: 250px;
+		margin: 85px auto 0;
+	}
+	.medicll-commingsoon .medicll-counter .medicll-timerbox{width: 100%;}
+	.medicll-commingsoon .medicll-timerbox:nmedicll-child(3){margin: 0 0 60px;}
+	.medicll-commingsoon .medicll-content h3{
+		font-size: 19px;
+		line-height: 16px;
+	}
+	.medicll-commingsoon .medicll-content p{font-size: 12px;}
+	.medicll-commingsoon .medicll-formsearch fieldset .medicll-btn{width: 110px;}
+	.medicll-commingsoon .medicll-formsearch fieldset .form-control{padding:15px 120px 15px 20px;}
+	.medicll-mapandworkhours .medicll-aimcol.medicll-workinghours{display: none;}
+	.medicll-postimg figcaption{padding: 6px 5px;}
+	.medicll-postmate{font-size: 12px;}
+	.medicll-posttitel h3{font-size: 15px;}
+	.medicll-widgetinstagram ul li{width: 33%;}
+	.medicll-widgetcontcatus figure figcaption {padding: 103px 0;}
+	.medicll-pagination ul li{display: none;}
+	.medicll-pagination ul .medicll-nextpage{display: inline-block;}
+	.medicll-pagination ul .medicll-prevpage{display: inline-block;}
+	.medicll-postslist.medicll-poststwo .medicll-postmate{right: 14%;}
+	.medicll-autherdp {
+		width: 100%;
+		margin: 0 auto;
+	}
+	.medicll-autherdp a img{margin: 0 auto;}
+	.medicll-authorcontent{
+		width: 100%;
+		padding: 20px 0;
+	}
+	.medicll-comments li ul{padding: 0;}
+	.medicll-homeslider .owl-buttons {padding: 0 0 0 139px;}
+	.medicll-testimonial blockquote{padding: 60px 0 0;}
+	.medicll-testimonial blockquote:before{
+		left: 50%;
+		top:-35px;
+		margin: 0 0 0 -45px;
+	}
+		.medicll-testimonialstwo .medicll-testimonialslider .owl-controls .owl-buttons{right: 35%;}
+		.medicll-homeslidertwo .medicll-slidercontent {padding: 90px 10px 90px 15px;}
+		.medicll-servicetitle h3 {
+			font-size: 13px;
+			line-height: 15px;
+		}
+		.medicll-quickcontact{min-height: 830px;}
+		.medicll-panel h4{padding: 6px 16px 5px 60px;}
+		.medicll-appointment-modal {width: 300px;}
+}
+@media (max-width:359px){
+	.medicll-service:nmedicll-child(3),
+	.medicll-service:nmedicll-child(4),
+	.medicll-service:nmedicll-child(2),
+	.medicll-service:nmedicll-child(4),
+	.medicll-service:nmedicll-child(6),
+	.medicll-service{
+		width: 100%;
+		border: 0 !important;
+	}
+	.medicll-service + .medicll-service{ border-top: 1px solid #c2c7cd !important;}
+	.medicll-testimonialstwo .medicll-clientinfo{left: 22px;}
+	.medicll-slidercontent {padding: 54px 66px 54px 15px;}
+	.medicll-featurestabcontent h2{font-size:22px}
+	.medicll-sectiontitle h2{font-size:22px}
+	.medicll-quickcontactinfo h3{font-size: 20px;}
+	.medicll-testimonialstwo .medicll-clientinfo {left: 160px;}
+	.medicll-homesliderthree .medicll-slidercontent {padding: 165px 0 105px;}
+	.medicll-btnform.medicll-btnform-lg span{padding: 0 18px;}
+	.medicll-headerthree .medicll-logo {width: 230px;}
+	.medicll-headerthree .medicll-navigationarea {padding: 18px 0;}
+	.medicll-detailpage .medicll-passionnant{padding:37px 0 37px 95px;}
+	.medicll-404tital h2 {
+		font-size: 65px;
+		line-height: 65px;
+	}
+	.medicll-404content h3 {font-size: 20px;}
+	.medicll-widgetcontcatus figure figcaption {padding: 81px 0;}
+	.medicll-postslist.medicll-poststwo .medicll-postmate{right: 2%;}
+}
