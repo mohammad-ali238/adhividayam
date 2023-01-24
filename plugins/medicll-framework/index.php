@@ -4,7 +4,7 @@
  * Plugin Name:       Medicll Framework
  * Plugin URI:        https://wordpress.org
  * Description:       MEDICLF plugin.
- * Version:           1.0
+ * Version:           1.0.0
  * Author:            WordPress
  * Author URI:        https://wordpress.org
  * License:           GPL-2.0+
