@@ -46,6 +46,10 @@ class Mediclf_Plugin {
         include_once MEDICLF_ABSPATH . 'includes/redux-framework/redux-ext/loader.php';
         include_once MEDICLF_ABSPATH . 'includes/redux-framework/class-redux-framework-plugin.php';
         include_once MEDICLF_ABSPATH . 'includes/redux-framework/framework-options/options-config.php';
+
+        //
+        include_once MEDICLF_ABSPATH . 'includes/meta-boxes.php';
+
         include_once MEDICLF_ABSPATH . 'includes/widgets/about-info.php';
     }
     
