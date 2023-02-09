@@ -60,7 +60,7 @@ class Mediclf_Meta_Boxes {
                     <label><?php esc_html_e('Select Sidebar', 'mediclf') ?></label>
                 </div>
                 <div class="elem-field">
-                    <select name="mediclf_field_post_layout">
+                    <select name="mediclf_field_post_sidebar">
                         <option value=""<?php echo ($post_sidebar == '' ? ' selected' : '') ?>><?php esc_html_e('Select Sidebar', 'mediclf') ?></option>
                         <?php
                         if (!empty($sidebars_array)) {

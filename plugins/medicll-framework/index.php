@@ -26,4 +26,12 @@ function MEDICLF__activate_plugin() {
 
 register_activation_hook(__FILE__, 'MEDICLF__activate_plugin');
 
+function medicll_framework_get_url($path = '') {
+    return plugin_dir_url(__FILE__) . $path;
+}
+
+function medicll_framework_get_path($path = '') {
+    return plugin_dir_path(__FILE__) . $path;
+}
+
 include_once dirname(MEDICLF_PLUGIN_FILE) . '/includes/class-plugin.php';

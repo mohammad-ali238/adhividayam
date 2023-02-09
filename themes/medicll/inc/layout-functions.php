@@ -78,7 +78,7 @@ function medicll_header_navigation() {
 			'menu_class' => 'medicll-navbar',
 			'container_class' => 'collapse navbar-collapse medicll-navigation',
 			'container_id' => 'medicll-navigation',
-			'container' => '',
+			'container' => 'div',
 			'fallback_cb' => 'medicll_nav_menu_fallback',
 		);
 		wp_nav_menu($args);

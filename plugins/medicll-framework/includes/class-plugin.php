@@ -42,6 +42,8 @@ class Mediclf_Plugin {
     }
 
     private function includes() {
+        include_once MEDICLF_ABSPATH . 'envato_setup/setup.php';
+        include_once MEDICLF_ABSPATH . 'envato_setup/setup-init.php';
         include_once MEDICLF_ABSPATH . 'includes/common-functions.php';
         include_once MEDICLF_ABSPATH . 'includes/redux-framework/redux-ext/loader.php';
         include_once MEDICLF_ABSPATH . 'includes/redux-framework/class-redux-framework-plugin.php';
@@ -51,6 +53,7 @@ class Mediclf_Plugin {
         include_once MEDICLF_ABSPATH . 'includes/meta-boxes.php';
 
         include_once MEDICLF_ABSPATH . 'includes/widgets/about-info.php';
+        include_once MEDICLF_ABSPATH . 'includes/widgets/nav-menu.php';
     }
     
     private function init_hooks() {
@@ -61,10 +64,10 @@ class Mediclf_Plugin {
     
     public function front_enqueues() {
         wp_enqueue_style('mediclf-bootstrap', self::root_url() . 'css/bootstrap.min.css', array(), MEDICLF_VERSION);
-        wp_enqueue_style('mediclf-bootstrap', self::root_url() . 'css/bootstrap-datetimepicker.min.css', array(), MEDICLF_VERSION);
-        wp_enqueue_style('mediclf-bootstrap', self::root_url() . 'css/normalize.css', array(), MEDICLF_VERSION);
-        wp_enqueue_style('mediclf-bootstrap', self::root_url() . 'css/owl.carousel.css', array(), MEDICLF_VERSION);
-        wp_enqueue_style('mediclf-bootstrap', self::root_url() . 'css/prettyPhoto.css', array(), MEDICLF_VERSION);
+        wp_enqueue_style('mediclf-datetimepicker', self::root_url() . 'css/bootstrap-datetimepicker.min.css', array(), MEDICLF_VERSION);
+        wp_enqueue_style('mediclf-normalize', self::root_url() . 'css/normalize.css', array(), MEDICLF_VERSION);
+        wp_enqueue_style('mediclf-owl-carousel', self::root_url() . 'css/owl.carousel.css', array(), MEDICLF_VERSION);
+        wp_enqueue_style('mediclf-prettyPhoto', self::root_url() . 'css/prettyPhoto.css', array(), MEDICLF_VERSION);
     }
     
     public function admin_enqueues() {
